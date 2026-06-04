@@ -32,15 +32,20 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![WhatsApp Image 2026-03-16 at 7 32 38 PM](https://github.com/user-attachments/assets/91b7ca55-894a-4916-bb5e-0b99722473cb)
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-25 at 9 26 20 AM" src="https://github.com/user-attachments/assets/d1cbeaf7-da6f-4618-9de4-a2c7f18a0614" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-25 at 9 26 42 AM" src="https://github.com/user-attachments/assets/d0fa47ec-9131-4870-bf14-840427d40529" />
+<img width="1600" height="900" alt="WhatsApp Image 2026-05-25 at 9 26 31 AM" src="https://github.com/user-attachments/assets/ec19ff51-2102-4801-8b92-ed79662bc96e" />
+
+
 
 
 ### Output:
-<img width="1919" height="955" alt="image" src="https://github.com/user-attachments/assets/82c0a26a-9474-41cb-ba55-ad9d79cf039a" />
+<img width="1326" height="688" alt="image" src="https://github.com/user-attachments/assets/af5e79c1-cf1d-4b5e-9b2b-02ac6cf92b0e" />
+
+<img width="1332" height="688" alt="image" src="https://github.com/user-attachments/assets/7e1d91a1-c8da-47d9-a3e5-f8c6d0f4624c" />
 
 
-
-### Name: MOHAMMED ARUN S
+### Name: ARUN S
 ### Register Number:212224230023
 
 ## RESULT:
